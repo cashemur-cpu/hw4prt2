@@ -8,7 +8,7 @@
             string firstInput = Console.ReadLine();
             Console.WriteLine("Enter second operand");
             string secondInput = Console.ReadLine();
-            double firstOperand = 0;
+            double firstOperand = 0; // Чесно буду радий коментарам, цей момент не знаю як елігантніше зробити окрім як попереднього оголошення змінних з присвоєнням нулей
             double secondOperand = 0;
             try
             {
